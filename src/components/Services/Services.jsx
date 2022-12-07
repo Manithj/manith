@@ -71,7 +71,7 @@ const Services = () => {
             emoji={Humble}
             heading={"UI/UX"}
             detail={
-              "Figma, Adobe xd"
+              "Figma, Adobe xd, Sketch, Canva, Webflow"
             }
             color="rgba(252, 166, 31, 0.45)"
           />
