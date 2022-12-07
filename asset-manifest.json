@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/manith/static/css/main.99f58e0c.css",
+    "main.js": "/manith/static/js/main.5fe85a0d.js",
+    "static/media/boy.png": "/manith/static/media/boy.0e22f40a8abc08ad0f9f.png",
+    "static/media/glassesimoji.png": "/manith/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/resume.pdf": "/manith/static/media/resume.85bdf7b1c448e9264dc9.pdf",
+    "static/media/thumbup.png": "/manith/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/manith/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/manith/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/manith/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/manith/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/manith/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/manith/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/manith/index.html",
+    "main.99f58e0c.css.map": "/manith/static/css/main.99f58e0c.css.map",
+    "main.5fe85a0d.js.map": "/manith/static/js/main.5fe85a0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f58e0c.css",
+    "static/js/main.5fe85a0d.js"
+  ]
+}
