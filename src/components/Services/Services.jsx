@@ -28,7 +28,7 @@ const Services = () => {
         <span>services</span>
         <spane>
         <h3>Frontend Developer with high level of experience in <br />
-          web designing and development, producting the Quality work.</h3>
+          Web Designing and Development.</h3>
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
